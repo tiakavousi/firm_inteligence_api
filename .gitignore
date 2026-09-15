@@ -1,2 +1,3 @@
 .venv/
 SPEC.md
+__pycache__/
